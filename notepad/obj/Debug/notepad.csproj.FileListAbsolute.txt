@@ -1,0 +1,16 @@
+C:\Visual_studio_Work\notepad\notepad\bin\Debug\notepad.exe.config
+C:\Visual_studio_Work\notepad\notepad\bin\Debug\notepad.exe
+C:\Visual_studio_Work\notepad\notepad\bin\Debug\notepad.pdb
+C:\Visual_studio_Work\notepad\notepad\obj\Debug\notepad.csprojResolveAssemblyReference.cache
+C:\Visual_studio_Work\notepad\notepad\obj\Debug\MainWindow.g.cs
+C:\Visual_studio_Work\notepad\notepad\obj\Debug\App.g.cs
+C:\Visual_studio_Work\notepad\notepad\obj\Debug\notepad_MarkupCompile.cache
+C:\Visual_studio_Work\notepad\notepad\obj\Debug\notepad_MarkupCompile.lref
+C:\Visual_studio_Work\notepad\notepad\obj\Debug\MainWindow.baml
+C:\Visual_studio_Work\notepad\notepad\obj\Debug\notepad.g.resources
+C:\Visual_studio_Work\notepad\notepad\obj\Debug\notepad.Properties.Resources.resources
+C:\Visual_studio_Work\notepad\notepad\obj\Debug\notepad.csproj.GenerateResource.Cache
+C:\Visual_studio_Work\notepad\notepad\obj\Debug\notepad.exe
+C:\Visual_studio_Work\notepad\notepad\obj\Debug\notepad.pdb
+C:\Visual_studio_Work\notepad\notepad\obj\Debug\About.g.cs
+C:\Visual_studio_Work\notepad\notepad\obj\Debug\About.baml
